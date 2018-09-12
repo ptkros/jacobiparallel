@@ -3,7 +3,7 @@ The project aims to design and implement a feasible parallel implementation of t
 # How to build
 
 In order to compile and run the application a copy of the files on a machine with Intel Xeon Phi coprocessor is required. There are two ways on how to compile the application:
-  * 'make': to get executable files for the host machine;
+  * *make* to get executable files for the host machine;
   * make phi: to get executable files for the Xeon Phi coprocessor.
 For all compilation options the executable files obtained are:
 • jacobip_ORIG: it is the original version;
