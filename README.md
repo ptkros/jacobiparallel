@@ -21,14 +21,13 @@ If version *l* is chosen, the first two parameters are not considered but necess
 # How to use
 
 Use the lsys500.txt as a test input file. Below, some examples of usage:
-
-*./jacobip_ORIG 5 0 lsys500.txt p*
-*./jacobip_VRED 10 0 lsys500.txt p 0.0001*
-*./jacobip_ORIG 5 50 lsys500.txt p*
-*./jacobip_VRED 50 5 lsys500.txt p 0.0001*
-*./jacobip_ORIG 100 0 1500 p*
-*./jacobip_VRED 100 200 3000 p*
-*./jacobip_ORIG 1 0 lsys500.txt l*
-*./jacobip_VRED 1 0 750 l 0.0001*
+  * *./jacobip_ORIG 5 0 lsys500.txt p*
+  * *./jacobip_VRED 10 0 lsys500.txt p 0.0001*
+  * *./jacobip_ORIG 5 50 lsys500.txt p*
+  * *./jacobip_VRED 50 5 lsys500.txt p 0.0001*
+  * *./jacobip_ORIG 100 0 1500 p*
+  * *./jacobip_VRED 100 200 3000 p*
+  * *./jacobip_ORIG 1 0 lsys500.txt l*
+  * *./jacobip_VRED 1 0 750 l 0.0001*
 
 
