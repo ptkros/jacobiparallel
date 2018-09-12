@@ -13,7 +13,7 @@ In order to run the program a set of parameters are required:
  * *chunk*: the iteration chunks;
  * *lsyspathname|lsysdim*: the (path)name of the input file containing the linear system or the desired dimension of the    linear system for a random generation;
  * version:
-  * *p*: to execute the parallel version;
-  * *l*: to execute the sequential version;
+   * *p*: to execute the parallel version;
+   * *l*: to execute the sequential version;
  * errtolerance: it is the desired error tolerance of the vector solutions. Optional.
 
